@@ -1,0 +1,8 @@
+.bill-board-container {
+    width: 100%;
+    
+    >img {
+        width: 100%;
+        border-radius: 10px;
+    }
+}
